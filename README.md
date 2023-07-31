@@ -7,6 +7,8 @@ Here's a picture of the connection in tinkercad
 ![257097447-3b3f021a-86de-472c-ab22-cb748d5ad17f](https://github.com/m0oje/Linking-two-arduinos/assets/138607426/a5cba0e3-30fb-4af8-81cd-14e2ae1b65bb)
 
 Here's a video showing it irl
-https://github.com/m0oje/Linking-two-arduinos/assets/138607426/1f3b8b7f-8e28-465c-bfbc-daaa12bc3e58
+
+https://github.com/m0oje/Linking-two-arduinos/assets/138607426/3f55e6a0-d0d1-4e7c-93e5-8ba12b7b141a
+
 
 the link tinkercad project : https://www.tinkercad.com/things/d3EAbS5gwyH-button-amp-amp-led-on-two-arduino/editel
